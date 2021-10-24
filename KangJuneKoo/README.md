@@ -6,7 +6,8 @@ ex) Fighting 프레임들을 넣을 것
 
 # 2. 클래스 설정할 것 -> Fight
 ![image](https://user-images.githubusercontent.com/76835313/138607972-1e76d658-5260-4b01-8264-7ad948d83553.png)
-
+![image](https://user-images.githubusercontent.com/76835313/138609266-c85f49ea-4793-447b-b55a-1da4de6b9c93.png)
+-> 현재는 4개의 클래스로 설정했는데 연구 목적에 따라 변경 가능
 # 3. 미리 유투브로 테스트 동영상을 업로드 해 놓을것
 ![image](https://user-images.githubusercontent.com/76835313/138608009-39c2ebaf-a8f0-47c9-b463-afe8a2532754.png)
 
