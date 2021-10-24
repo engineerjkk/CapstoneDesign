@@ -18,7 +18,7 @@ ________________________________________
 # [Tutorial Link!](https://github.com/spmallick/learnopencv/tree/master/video-classification-and-human-activity-recognition)
 # [Go to Colab](https://colab.research.google.com/drive/1Yxsyc7qTr7KjTyz8qa6mJqb3TagthWK-?usp=sharing#scrollTo=RiAMJx7tr5-I)
 [Introduction to Video Classification and Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/)
-
+# [OpenCV Github](https://github.com/spmallick/learnopencv)
 # 1. Understanding Human Activity Recognition
 - in Human Activity Recognition, you actually need a series of data points to predict the action being performed correctly
 1. Video Classification의 경우 여러개의 데이터를 가지고 어떠한 행동을 하는지 예측하는 행위이다. 
