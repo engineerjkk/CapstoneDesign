@@ -1,3 +1,16 @@
+_____________________________________
+# 실험 방법
+1. ![image](https://user-images.githubusercontent.com/76835313/138607935-d03a3514-4ced-4a2a-af58-8b8b5f615e0a.png)
+* 'UCF50/WalkingWithDog' 위치에 학습할 프레임을 넣을것.
+* ex) Fighting 프레임들을 넣을 것
+2. ![image](https://user-images.githubusercontent.com/76835313/138607972-1e76d658-5260-4b01-8264-7ad948d83553.png)
+* 클래스 설정할 것 -> Fight
+3. ![image](https://user-images.githubusercontent.com/76835313/138608009-39c2ebaf-a8f0-47c9-b463-afe8a2532754.png)
+* 미리 유투브로 테스트 동영상을 업로드 해 놓을것
+4. ![image](https://user-images.githubusercontent.com/76835313/138608639-11bef76b-7900-4578-91f8-64e1b1f059da.png)
+데이터 수집은 약 8초간의 동영상(30프레임이므로 총 240프레임정도)를 25개정도는 있어야한다. 
+________________________________________
+
 # [Tutorial Link!](https://github.com/spmallick/learnopencv/tree/master/video-classification-and-human-activity-recognition)
 # [Go to Colab](https://colab.research.google.com/drive/1Yxsyc7qTr7KjTyz8qa6mJqb3TagthWK-?usp=sharing#scrollTo=RiAMJx7tr5-I)
 [Introduction to Video Classification and Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/)
@@ -39,14 +52,3 @@ an aimage classifier의 경우 정확한 결과를 도출해내지 못합니다.
 # 5. Making a Video Classifier Using Keras.
 
 
-_____________________________________
-# 실험 방법
-1. ![image](https://user-images.githubusercontent.com/76835313/138607935-d03a3514-4ced-4a2a-af58-8b8b5f615e0a.png)
-* 'UCF50/WalkingWithDog' 위치에 학습할 프레임을 넣을것.
-* ex) Fighting 프레임들을 넣을 것
-2. ![image](https://user-images.githubusercontent.com/76835313/138607972-1e76d658-5260-4b01-8264-7ad948d83553.png)
-* 클래스 설정할 것 -> Fight
-3. ![image](https://user-images.githubusercontent.com/76835313/138608009-39c2ebaf-a8f0-47c9-b463-afe8a2532754.png)
-* 미리 유투브로 테스트 동영상을 업로드 해 놓을것
-4. ![image](https://user-images.githubusercontent.com/76835313/138608639-11bef76b-7900-4578-91f8-64e1b1f059da.png)
-데이터 수집은 약 8초간의 동영상(30프레임이므로 총 240프레임정도)를 25개정도는 있어야한다. 
