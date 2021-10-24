@@ -15,6 +15,8 @@ ex) Fighting 프레임들을 넣을 것
 
 # 차별성
 1. 위 4번의 데이터수집을 실제가 아닌 메타버스 환경의 동영상 데이터셋을 만들기
+2. 메타버스 상의 폭력성, 범죄 등을 미치 추적해 예방
+[메타버스 폭력성](https://www.youtube.com/watch?v=u52MLjpj7z4) 3:38초
 ________________________________________
 
 # [Tutorial Link!](https://github.com/spmallick/learnopencv/tree/master/video-classification-and-human-activity-recognition)
