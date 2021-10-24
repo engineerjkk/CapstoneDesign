@@ -1,14 +1,18 @@
 _____________________________________
 # 실험 방법
-1. ![image](https://user-images.githubusercontent.com/76835313/138607935-d03a3514-4ced-4a2a-af58-8b8b5f615e0a.png)
-* 'UCF50/WalkingWithDog' 위치에 학습할 프레임을 넣을것.
-* ex) Fighting 프레임들을 넣을 것
-2. ![image](https://user-images.githubusercontent.com/76835313/138607972-1e76d658-5260-4b01-8264-7ad948d83553.png)
-* 클래스 설정할 것 -> Fight
-3. ![image](https://user-images.githubusercontent.com/76835313/138608009-39c2ebaf-a8f0-47c9-b463-afe8a2532754.png)
-* 미리 유투브로 테스트 동영상을 업로드 해 놓을것
-4. ![image](https://user-images.githubusercontent.com/76835313/138608639-11bef76b-7900-4578-91f8-64e1b1f059da.png)
-데이터 수집은 약 8초간의 동영상(30프레임이므로 총 240프레임정도)를 25개정도는 있어야한다. 
+# 1.'UCF50/WalkingWithDog' 위치에 학습할 프레임을 넣을것.
+ex) Fighting 프레임들을 넣을 것
+![image](https://user-images.githubusercontent.com/76835313/138607935-d03a3514-4ced-4a2a-af58-8b8b5f615e0a.png)
+
+# 2. 클래스 설정할 것 -> Fight
+![image](https://user-images.githubusercontent.com/76835313/138607972-1e76d658-5260-4b01-8264-7ad948d83553.png)
+
+# 3. 미리 유투브로 테스트 동영상을 업로드 해 놓을것
+![image](https://user-images.githubusercontent.com/76835313/138608009-39c2ebaf-a8f0-47c9-b463-afe8a2532754.png)
+
+# 4. 데이터 수집은 약 8초간의 동영상(30프레임이므로 총 240프레임정도)를 25개정도는 있어야한다. 
+![image](https://user-images.githubusercontent.com/76835313/138608639-11bef76b-7900-4578-91f8-64e1b1f059da.png)
+
 ________________________________________
 
 # [Tutorial Link!](https://github.com/spmallick/learnopencv/tree/master/video-classification-and-human-activity-recognition)
