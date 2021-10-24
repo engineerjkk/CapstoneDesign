@@ -13,6 +13,8 @@ ex) Fighting 프레임들을 넣을 것
 # 4. 데이터 수집은 약 8초간의 동영상(30프레임이므로 총 240프레임정도)를 25개정도는 있어야한다. 
 ![image](https://user-images.githubusercontent.com/76835313/138608639-11bef76b-7900-4578-91f8-64e1b1f059da.png)
 
+# 차별성
+1. 위 4번의 데이터수집을 실제가 아닌 메타버스 환경의 동영상 데이터셋을 만들기
 ________________________________________
 
 # [Tutorial Link!](https://github.com/spmallick/learnopencv/tree/master/video-classification-and-human-activity-recognition)
