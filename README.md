@@ -46,8 +46,8 @@
 
    * Video Scene Understanding train python file
    * Video Scene Understanding Execution file
-   * Object Detection train python file
-   * Object Detection Execution file
+   * [Object Detection train python file](https://github.com/engineerjkk/CapstoneDesign/blob/main/02.Object_Detection/train.py)
+   * [Object Detection Execution file](https://github.com/engineerjkk/CapstoneDesign/blob/main/02.Object_Detection/detect.py)
   
 6. Video Scene Understanding, Object Detection 학습 결과
 
