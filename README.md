@@ -20,7 +20,8 @@
 2. 데이터 수집 및 전처리 과정 수행
 
 ![image](https://user-images.githubusercontent.com/76835313/145256959-7663b1dd-2e28-4c35-8226-104df3836bd0.png)
-- 데이터 수집 및 전처리 과정입니다. 이후 소개드릴 Video Understanding과 Object Detection에 필요한 데이터들을 수집하였습니다. 비디오 데이터 포함 약 2000여개의 데이터를 수집하였습니다. Object Detection에서는 라벨링 작업을 makesense.ai 사이트에서 직접 수행해 주었습니다. 이 때 좀더 수월한 데이터 수집을 위하여 직접 Frame Extractor를 제작하였습니다.  
+- 데이터 수집 및 전처리 과정입니다. 이후 소개드릴 Video Understanding과 Object Detection에 필요한 데이터들을 수집하였습니다. 비디오 데이터 포함 약 2000여개의 데이터를 수집하였습니다. Object Detection에서는 라벨링 작업을 makesense.ai 사이트에서 직접 수행해 주었습니다. 이 때 좀더 수월한 데이터 수집을 위하여 직접 Frame Extractor를 제작하였습니다. 
+ 
 2-1. Frame Extractor GUI exe 파일 생성 프로그램 제작  
 
 ![image](https://user-images.githubusercontent.com/76835313/145257066-2376f51b-bc59-4754-83b4-7accdbb1c377.png)
