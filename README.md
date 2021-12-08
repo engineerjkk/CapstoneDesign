@@ -31,13 +31,23 @@
 ![image](https://user-images.githubusercontent.com/76835313/145257139-f293da29-b1dc-4038-a01f-a6af73f27d51.png)
 ![image](https://user-images.githubusercontent.com/76835313/145257162-89090682-0288-486b-b562-798d02f53ce5.png)
 - 이번 프로젝트에서는 위와같은 논문을 기반으로 아이디어를 얻고 프로그래밍으로 구현하였습니다. 대부분 오픈소스로 코드가 공개되어있습니다. 여기에 좀더 프로그래밍을 더해 저희의 목적에 맞도록 개선하였습니다.
+   * [Action_Recognition_in_Video_Sequences_using_Deep_Bi-Directional_LSTM_With_CNN_Features](https://github.com/engineerjkk/CapstoneDesign/blob/main/05.Reference/Action_Recognition_in_Video_Sequences_using_Deep_Bi-Directional_LSTM_With_CNN_Features.pdf)
+   * [DB-LSTM Densely-connected Bi-directional LSTM for human action recognition](https://github.com/engineerjkk/CapstoneDesign/blob/main/05.Reference/DB-LSTM%20Densely-connected%20Bi-directional%20LSTM%20for%20human%20action%20recognition.pdf)
+   * [YOLOv1](https://github.com/engineerjkk/CapstoneDesign/blob/main/05.Reference/YOLOv1.pdf)
+   * [YOLOv4](https://github.com/engineerjkk/CapstoneDesign/blob/main/05.Reference/YOLOv4.pdf)
 4. Video Scene Understanding 코드 분석 및 개선 프로그래밍
 
 ![image](https://user-images.githubusercontent.com/76835313/145257241-bbf1b38f-3545-4ed5-9426-3db6fb6003e1.png)
 5. Object Detection 코드 분석 및 개선 프로그래밍
-
+   
 ![image](https://user-images.githubusercontent.com/76835313/145257281-efa621cb-2673-45fa-801c-96f5b760f31b.png)
 - Video Scene Understandig과 Object Detection 코드 분석 및 개선 프로그래밍에 사용된 코드 중 일부내용입니다. 코랩 환경에서도 학습과 실행이 가능하며 주피터 노트북 및 파이참과 같은 개발환경에서도 가능합니다. 저희팀의 경우 코랩의 환경에서 실행하였습니다. 
+- 
+   * Video Scene Understanding train python file
+   * Video Scene Understanding Execution file
+   * Object Detection train python file
+   * Object Detection Execution file
+  
 6. Video Scene Understanding, Object Detection 학습 결과
 
 ![image](https://user-images.githubusercontent.com/76835313/145257355-4612fb62-32f6-4de4-b7a9-32e7d9d8f253.png)
@@ -52,4 +62,6 @@
 ![image](https://user-images.githubusercontent.com/76835313/145257505-fdb6b416-3668-4a2f-b3ff-3f414d7c89f8.png)
 - 이전단계에서 실행한 Video Scene Understanding과 Object Detection을 통하여 실제 강도가 들어온 상황이라면 CCTV속 몇 명의 사람이 있고 총을 들었는지 유무를 전송해줍니다.
 - 텔레그램 어플을 설치한 뒤 ip를 확인합니다. 파이썬 프로그래밍을 통해서 해당하는 ip에 데이터를 보내줄 수 있습니다. 
+
+   * Telegram Chatbot python file
 
