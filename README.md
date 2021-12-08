@@ -31,6 +31,7 @@
 ![image](https://user-images.githubusercontent.com/76835313/145257139-f293da29-b1dc-4038-a01f-a6af73f27d51.png)
 ![image](https://user-images.githubusercontent.com/76835313/145257162-89090682-0288-486b-b562-798d02f53ce5.png)
 - 이번 프로젝트에서는 위와같은 논문을 기반으로 아이디어를 얻고 프로그래밍으로 구현하였습니다. 대부분 오픈소스로 코드가 공개되어있습니다. 여기에 좀더 프로그래밍을 더해 저희의 목적에 맞도록 개선하였습니다.
+
    * [Action_Recognition_in_Video_Sequences_using_Deep_Bi-Directional_LSTM_With_CNN_Features](https://github.com/engineerjkk/CapstoneDesign/blob/main/05.Reference/Action_Recognition_in_Video_Sequences_using_Deep_Bi-Directional_LSTM_With_CNN_Features.pdf)
    * [DB-LSTM Densely-connected Bi-directional LSTM for human action recognition](https://github.com/engineerjkk/CapstoneDesign/blob/main/05.Reference/DB-LSTM%20Densely-connected%20Bi-directional%20LSTM%20for%20human%20action%20recognition.pdf)
    * [YOLOv1](https://github.com/engineerjkk/CapstoneDesign/blob/main/05.Reference/YOLOv1.pdf)
