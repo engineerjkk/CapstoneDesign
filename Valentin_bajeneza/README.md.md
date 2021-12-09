@@ -12,7 +12,7 @@ Currently, we created Telegram Chatbot for that purpose( Notify in case of dange
 
 Contents: Number of guns available and number of People around.
 
-3. Notification on Screen
+3. Notification on Phone screen
 
 ![3](https://user-images.githubusercontent.com/57138931/143757808-7acd602d-9493-4412-9740-23d6064e6e9c.jpg)
 
