@@ -40,8 +40,9 @@
 
 ![image](https://user-images.githubusercontent.com/76835313/145257241-bbf1b38f-3545-4ed5-9426-3db6fb6003e1.png)
 5. Object Detection 코드 분석 및 개선 프로그래밍
-   
-![image](https://user-images.githubusercontent.com/76835313/145257281-efa621cb-2673-45fa-801c-96f5b760f31b.png)
+6. 
+ ![Capture](https://user-images.githubusercontent.com/57138931/145999774-8861cb18-bf4e-428b-b885-b90f8656e4b3.JPG)
+
 - Video Scene Understandig과 Object Detection 코드 분석 및 개선 프로그래밍에 사용된 코드 중 일부내용입니다. 코랩 환경에서도 학습과 실행이 가능하며 주피터 노트북 및 파이참과 같은 개발환경에서도 가능합니다. 저희팀의 경우 코랩의 환경에서 실행하였습니다. 
 
    * Video Scene Understanding train python file
