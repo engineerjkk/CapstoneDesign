@@ -45,8 +45,8 @@
 
 - Video Scene Understandig과 Object Detection 코드 분석 및 개선 프로그래밍에 사용된 코드 중 일부내용입니다. 코랩 환경에서도 학습과 실행이 가능하며 주피터 노트북 및 파이참과 같은 개발환경에서도 가능합니다. 저희팀의 경우 코랩의 환경에서 실행하였습니다. 
 
-   * Video Scene Understanding train python file
-   * Video Scene Understanding Execution file
+   * [Video Scene Understanding train python file](https://github.com/engineerjkk/CapstoneDesign/blob/main/01.Video_Scene_Understanding/train.py)
+   * [Video Scene Understanding Execution file](https://github.com/engineerjkk/CapstoneDesign/blob/main/01.Video_Scene_Understanding/predict_video.py)
    * [Object Detection train python file](https://github.com/engineerjkk/CapstoneDesign/blob/main/02.Object_Detection/train.py)
    * [Object Detection Execution file](https://github.com/engineerjkk/CapstoneDesign/blob/main/02.Object_Detection/detect.py)
   
@@ -65,5 +65,5 @@
 - 이전단계에서 실행한 Video Scene Understanding과 Object Detection을 통하여 실제 강도가 들어온 상황이라면 CCTV속 몇 명의 사람이 있고 총을 들었는지 유무를 전송해줍니다.
 - 텔레그램 어플을 설치한 뒤 ip를 확인합니다. 파이썬 프로그래밍을 통해서 해당하는 ip에 데이터를 보내줄 수 있습니다. 
 
-   * Telegram Chatbot python file
+   * [Telegram Chatbot python file](https://github.com/engineerjkk/CapstoneDesign/blob/main/04.Application/README.md)
 
