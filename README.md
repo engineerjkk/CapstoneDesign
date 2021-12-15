@@ -68,7 +68,7 @@
    * [Telegram Chatbot python file](https://github.com/engineerjkk/CapstoneDesign/blob/main/04.Application/README.md)
 
 - 마무리
-- 
+
 ![image](https://user-images.githubusercontent.com/76835313/146137294-9f1fb10b-91b9-44f3-96a7-eaffcf1e5114.png)
 - 마지막으로 
 대전시의 재난관리과 영상관제팀장님께서는 이렇게 말씀하십니다.  
