@@ -68,12 +68,13 @@
    * [Telegram Chatbot python file](https://github.com/engineerjkk/CapstoneDesign/blob/main/04.Application/README.md)
 
 - 마무리
+- 
 ![image](https://user-images.githubusercontent.com/76835313/146137294-9f1fb10b-91b9-44f3-96a7-eaffcf1e5114.png)
 - 마지막으로 
 대전시의 재난관리과 영상관제팀장님께서는 이렇게 말씀하십니다.  
-"1인당 약 390대의 CCTV를 관제하고 있습니다. 놓칠 수 있는 그런 사각지대를 해소하는데 많은 도움"이 될 거라고 말입니다.  
+**"1인당 약 390대의 CCTV를 관제하고 있습니다. 놓칠 수 있는 그런 사각지대를 해소하는데 많은 도움이 될 것"** 이라고 말입니다.  
 따라서 저희의 이런 시스템이 개발되어 각 경찰서와 소방서, 공공장소 등에 적용이 된다면 CCTV 감시하는 분들의 사각지대 역시 해소하고
 경찰의 실시간 출동으로 범인을 조기에 잡거나 범죄 예방에 큰 기여를 할 수 있을 것이라 봅니다.
 
-감사합니다.
+## 감사합니다.
 
